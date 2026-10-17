@@ -1,0 +1,54 @@
+{
+  "model_variant": "model6_3_no_time",
+  "fold": 1,
+  "time_series_features": [
+    "component_h1",
+    "component_h2",
+    "component_v",
+    "component_h1_rolling_std_12",
+    "component_h2_rolling_std_12",
+    "component_v_rolling_std_12"
+  ],
+  "single_value_features": [
+    "degrees_rotated_from_the_original",
+    "Mw"
+  ],
+  "time_list_handling": "not included",
+  "scalar_scaling": "StandardScaler fit on this fold's original training rows only; saved as scaler_single.joblib",
+  "splitter": "GroupKFold(n_splits=5), deterministic, grouped by parsed event",
+  "training_events": [
+    "Imperial_valley_1979",
+    "Kobe_1995",
+    "Kushiro_oki_1993",
+    "Loma_prieta_1989",
+    "Niigata_1964",
+    "Niigata_Chuetsu_2007",
+    "Superstition_hills_1987",
+    "Tokachi_oki_1968",
+    "Tokachi_oki_2003",
+    "Western_tottori_2000"
+  ],
+  "validation_events": [
+    "Tohoku_2011"
+  ],
+  "original_training_class_counts": {
+    "0": 15804,
+    "1": 7470,
+    "2": 118836
+  },
+  "resampled_training_class_counts": {
+    "0": 59418,
+    "1": 59418,
+    "2": 118836
+  },
+  "class_weights_after_oversampling": {
+    "0": 1.3333333333333333,
+    "1": 1.3333333333333333,
+    "2": 0.6666666666666666
+  },
+  "epochs_requested": 20,
+  "batch_size": 32,
+  "early_stopping_patience": 5,
+  "best_model_path": "artifacts\\model6_3_no_time\\checkpoints\\fold_1\\best_model.keras",
+  "scalar_scaler_path": "artifacts\\model6_3_no_time\\preprocessing\\fold_1\\scaler_single.joblib"
+}

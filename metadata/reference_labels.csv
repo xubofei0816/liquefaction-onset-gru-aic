@@ -1,0 +1,112 @@
+recording_id,record_type,study_use,reference_tL1_sec_or_note,reference_tL1_method,reference_tL1_study,reference_tL2_sec_or_note,reference_tL2_method,reference_tL2_study,reference_note
+1_Kramer_Christchurch_2011_CCCC,ground_motion,gm_test,19.3,time_frequency_Ozener_2020,Kramer_2015,,,,
+2_Kramer_Christchurch_2011_CHHC,ground_motion,gm_test,20.2,time_frequency_Ozener_2020,Kramer_2015,,,,
+3_Kramer_Christchurch_2011_CMHS,ground_motion,gm_test,19.1,time_frequency_Ozener_2020,Kramer_2015,,,,
+4_Kramer_Darfield_2010_HPSC,ground_motion,gm_test,30.1,time_frequency_Ozener_2020,Kramer_2015,,,,
+5_Oz_Kobe_1995_Higashi_kobe_bridge,ground_motion,training_and_cross_validation,9.3,time_frequency_Ozener_2020,Ozener_2020,,,,Minor. Ground surface time history exhibits longer period motion than downhole time history
+5_Kramer_Kobe_1995_Higashi_kobe_bridge,ground_motion,training_and_cross_validation,9.9,time_frequency_Ozener_2020,Kramer_2015,,,,Minor. Ground surface time history exhibits longer period motion than downhole time history
+6_Oz_Kobe_1995_Kobe_JIS,ground_motion,training_and_cross_validation,1.7,time_frequency_Ozener_2020,Ozener_2020,,,,Severe. Lateral spreading nearby.
+6_Kramer_Kobe_1995_Kobe_JIS,ground_motion,training_and_cross_validation,2.7,time_frequency_Ozener_2020,Kramer_2015,,,,Severe. Lateral spreading nearby.
+7_Oz_Kobe_1995_Port_island,ground_motion,training_and_cross_validation,16.7,time_frequency_Ozener_2020,Ozener_2020,,,,Severe. Widespread liquefaction and major ground deformation 
+7_Kramer_Kobe_1995_Port_island,ground_motion,training_and_cross_validation,8.5,time_frequency_Ozener_2020,Kramer_2015,,,,Severe. Widespread liquefaction and major ground deformation 
+8_Oz_Loma_prieta_1989_ANAS,ground_motion,training_and_cross_validation,12.4,time_frequency_Ozener_2020,Ozener_2020,,,,Minor. Evidence of sand boils and ground settlement
+8_Kramer_Loma_prieta_1989_ANAS,ground_motion,training_and_cross_validation,12.4,time_frequency_Ozener_2020,Kramer_2015,,,,Minor. Evidence of sand boils and ground settlement
+9_Oz_Loma_prieta_1989_Treasure_island,ground_motion,training_and_cross_validation,14.3,time_frequency_Ozener_2020,Ozener_2020,,,,Severe. Sand boils and differential settlement nearby.
+9_Kramer_Loma_prieta_1989_Treasure_island,ground_motion,training_and_cross_validation,13.5,time_frequency_Ozener_2020,Kramer_2015,,,,Severe. Sand boils and differential settlement nearby.
+10_Kramer_Nihonkai_chubu_1983_Hachirogata,ground_motion,gm_test,56.9,time_frequency_Ozener_2020,Kramer_2015,9.2,time_frequency_Ozener_2020,Ozener_2020,Widespread liquefaction in the area.
+11_Oz_Niigata_1964_Kawagishi_cho,ground_motion,training_and_cross_validation,6.9,time_frequency_Ozener_2020,Ozener_2020,,,,Severe. Ground failure caused by liquefaction
+11_Kramer_Niigata_1964_Kawagishi_cho,ground_motion,training_and_cross_validation,10.4,time_frequency_Ozener_2020,Kramer_2015,,,,Severe. Ground failure caused by liquefaction
+12_Oz_Superstition_hills_1987_Wildlife,ground_motion,training_and_cross_validation,13.2,time_frequency_Ozener_2020,Ozener_2020,,,,"Severe. Sand boils, ground fissures, and lateral spreading "
+12_Kramer_Superstition_hills_1987_Wildlife,ground_motion,training_and_cross_validation,13.8,time_frequency_Ozener_2020,Kramer_2015,,,,"Severe. Sand boils, ground fissures, and lateral spreading "
+13_Oz_Tohoku_2011_CHB024,ground_motion,training_and_cross_validation,121,time_frequency_Ozener_2020,Ozener_2020,,,,Severe. Large sand boils in vicinity and around the station.
+13_Kramer_Tohoku_2011_CHB024,ground_motion,training_and_cross_validation,120,time_frequency_Ozener_2020,Kramer_2015,,,,Severe. Large sand boils in vicinity and around the station.
+14_Oz_Tohoku_2011_IBR014,ground_motion,training_and_cross_validation,107.7,time_frequency_Ozener_2020,Ozener_2020,,,,Minor. Minor sand boils in the vicinity.
+14_Kramer_Tohoku_2011_IBR014,ground_motion,training_and_cross_validation,105,time_frequency_Ozener_2020,Kramer_2015,,,,Minor. Minor sand boils in the vicinity.
+15_Oz_Tohoku_2011_MYG013,ground_motion,training_and_cross_validation,49.1,time_frequency_Ozener_2020,Ozener_2020,,,,Minor. Cracking in the parking lot and strong motion recorder settlement.
+15_Kramer_Tohoku_2011_MYG013,ground_motion,training_and_cross_validation,46.9,time_frequency_Ozener_2020,Kramer_2015,,,,Minor. Cracking in the parking lot and strong motion recorder settlement.
+16_Oz_Tokachi_oki_1968_Aomori_Harbor,ground_motion,training_and_cross_validation,19.8,time_frequency_Ozener_2020,Ozener_2020,,,,Severe. Sand boils.
+17_Oz_Tokachi_oki_2003_HKD086,ground_motion,training_and_cross_validation,34.9,time_frequency_Ozener_2020,Ozener_2020,,,,Severe. Sand boils and accelerometer tilted 
+17_Kramer_Tokachi_oki_2003_HKD086,ground_motion,training_and_cross_validation,34.9,time_frequency_Ozener_2020,Kramer_2015,,,,Severe. Sand boils and accelerometer tilted 
+18_Oz_Western_tottori_2000_Sakaiminato,ground_motion,training_and_cross_validation,19.1,time_frequency_Ozener_2020,Ozener_2020,,,,Minor. Sand boils in the vicinity of strong motion recorder.
+18_Kramer_Western_tottori_2000_Sakaiminato,ground_motion,training_and_cross_validation,19.1,time_frequency_Ozener_2020,Kramer_2015,,,,Minor. Sand boils in the vicinity of strong motion recorder.
+19_Oz_Hyogoken_nambu_1995_Amagasaki,ground_motion,gm_test,10.9,time_frequency_Ozener_2020,Ozener_2020,,,,Minor. Trace surficial evidence and strong motion
+21_Oz_Imperial_valley_1979_Bonds_corner,ground_motion,training_and_cross_validation,5.8,time_frequency_Ozener_2020,Ozener_2020,,,,Strong motion recorder indicated liquefaction. Liquefaction observed nearby.
+22_Oz_Kushiro_oki_1993_Kushiro_port,ground_motion,training_and_cross_validation,28.7,time_frequency_Ozener_2020,Ozener_2020,,,,Minor. No evidence of ground deformation. Distinct changes in time history corresponding with dilation pulses 
+23_Oz_Tohoku_2011_MYG010,ground_motion,training_and_cross_validation,46,time_frequency_Ozener_2020,Ozener_2020,,,,"Severe. Tsunami inundation obscured evidence, but widespread liquefaction during aftershocks. "
+24_Oz_Niigata_Chuetsu_2007_NIG018,ground_motion,training_and_cross_validation,19,time_frequency_Ozener_2020,Ozener_2020,,,,Minor. Strong motion recorder tilted.
+25_Oz_Tohoku_2011_Onahama_port,ground_motion,training_and_cross_validation,79.5,time_frequency_Ozener_2020,Ozener_2020,,,,Severe. Large sand boils observed.
+26_ZhangKramer_Kobe_1995_Takatori,ground_motion,gm_test,"3.97,5.82,9.47",Zhang CNN on image 2023,Zhang 2023,14.48,Ko 2025 With Ramp,Ko 2025,
+27_ZhangKramer_Darfield_2010_GDLC,ground_motion,gm_test,"25.19,26.01,26.44",Zhang CNN on image 2023,Zhang 2023,35.24499999999958,Ko 2025 With Ramp,Ko 2025,
+28_ZhangKramer_Christchurch_2011_REHS,ground_motion,gm_test,"15.73,16.43,15.39",Zhang CNN on image 2023,Zhang 2023,23.069999999999613,Ko 2025 With Ramp,Ko 2025,
+29_ZhangKramer_Christchurch_2011_PRPC,ground_motion,gm_test,16.43999999999943,Ko 2025 With Ramp,Ko 2025,,,,
+30_ZhangKramer_Christchurch_2011_HPSC,ground_motion,gm_test,"17.54,16.57,14.2",Zhang CNN on image 2023,Zhang 2023,20.445000000000103,Ko 2025 With Ramp,Ko 2025,
+31_ZhangKramer_Christchurch_2011_SHLC,ground_motion,gm_test,26.095000000000027,Ko 2025 With Ramp,Zhang 2023,,,,
+32_ZhangKramer_Tohoku_2011_TKY017,ground_motion,gm_test,"144.73,144.35,180.88",Zhang CNN on image 2023,Zhang 2023,168.62,Ko 2025 With Ramp,Ko 2025,
+38_ZhangKramer_Christchurch_2011_CBGS,ground_motion,gm_test,"20.88,20.92,21.24",Zhang CNN on image 2023,Zhang 2023,,,,
+39_ZhangKramer_Nisqually_2001_HAR,ground_motion,gm_production,"Liquefaction observed, not identified by Zhang 2023",Zhang CNN on image 2023,Zhang 2023,,,,
+40_ZhangKramer_Nisqually_2001_SDS,ground_motion,gm_test,"34.25,33.82,37.82",Zhang CNN on image 2023,Zhang 2023,,,,
+41_ZhangKramer_Nisqually_2001_SDW,ground_motion,gm_production,tLs reported by Zhang 2023 are misaligned with time history,Zhang CNN on image 2023,Zhang 2023,,,,
+42_ZhangKramer_ChiChi_1999_TCU117,ground_motion,gm_production,"Liquefaction observed, not identified by Zhang 2023",Zhang CNN on image 2023,Zhang 2023,,,,
+43_ZhangKramer_Northridge_1994_Sylmar,ground_motion,gm_test,"5.43,7.61,6.74",Zhang CNN on image 2023,Zhang 2023,,,,
+45_WOliqBofei_Tohoku_2011_FKS002,ground_motion,gm_production,Potentially subject to liquefaction,Site_stratigraphy_Dictated,Bofei_2025,,,,
+46_WOliqBofei_Tohoku_2011_FKS004,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+47_WOliqBofei_Tohoku_2011_FKS009,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+48_WOliqBofei_Tohoku_2011_FKS031,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+49_WOliqBofei_Tohoku_2011_MYG001,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+50_WOliqBofei_Tohoku_2011_MYG007,ground_motion,gm_production,Potentially subject to liquefaction,Site_stratigraphy_Dictated,Bofei_2025,,,,
+51_WOliqBofei_Tohoku_2011_MYG009,ground_motion,gm_production,Potentially subject to liquefaction,Site_stratigraphy_Dictated,Bofei_2025,,,,
+52_WOliqBofei_Tohoku_2011_MYG011,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+53_WOliqBofei_Tohoku_2011_MYG012,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+54_WOliqBofei_Tohoku_2011_MYG016,ground_motion,gm_production,Potentially subject to liquefaction,Site_stratigraphy_Dictated,Bofei_2025,,,,
+55_WOliqBofei_Niigata_Chuetsu_2007_NIG001,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+56_WOliqBofei_Niigata_Chuetsu_2007_NIG004,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+57_WOliqBofei_Niigata_Chuetsu_2007_NIG016,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+58_WOliqBofei_Niigata_Chuetsu_2007_NIG025,ground_motion,gm_production,Potentially subject to liquefaction,Site_stratigraphy_Dictated,Bofei_2025,,,,
+59_WOliqBofei_Western_tottori_2000_SMN010,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+60_WOliqBofei_Western_tottori_2000_SMN017,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+61_WOliqBofei_Western_tottori_2000_TTR005,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+62_WOliqBofei_Western_tottori_2000_TTR007,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+63_WOliqBofei_Tokachi_oki_2003_HKD104,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+64_WOliqBofei_Tokachi_oki_2003_HKD108,ground_motion,gm_production,Potentially subject to liquefaction,Site_stratigraphy_Dictated,Bofei_2025,,,,
+65_WOliqBofei_Tokachi_oki_2003_HKD087,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+66_WOliqBofei_Tokachi_oki_2003_HKD123,ground_motion,gm_production,Unlikely to liquefy,Site_stratigraphy_Dictated,Bofei_2025,,,,
+CU1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,9.5533,9 kPa Threshold,Bofei,,,,
+CU2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,10.1133,9 kPa Threshold,Bofei,,,,
+Ehime1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,8.42,9 kPa Threshold,Bofei,,,,
+Ehime1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,9.64,9 kPa Threshold,Bofei,,,,
+Ehime2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,8.46,9 kPa Threshold,Bofei,,,,
+Ehime2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,8.36,9 kPa Threshold,Bofei,,,,
+Ehime3_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,9.42,9 kPa Threshold,Bofei,,,,
+Ehime3_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,8.64,9 kPa Threshold,Bofei,,,,
+Ifsttar1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,8.8395,9 kPa Threshold,Bofei,,,,
+Ifsttar1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,6.18,9 kPa Threshold,Bofei,,,,
+KAIST1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,8.6527,90% of P4_max,Bofei,,,,
+KAIST1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,12.8521,90% of P4_max,Bofei,,,,
+KAIST2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,12.3394,9 kPa Threshold,Bofei,,,,
+KAIST2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,10.3617,9 kPa Threshold,Bofei,,,,
+KyU1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,No liq,9 kPa Threshold,Bofei,,,,
+KyU1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,"Ambiguous, ignored data",9 kPa Threshold,Bofei,,,,
+KyU2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,11.7527,9 kPa Threshold,Bofei,,,,
+KyU2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,6.7976,9 kPa Threshold,Bofei,,,,
+KyU3_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,11.5529,90% of P4_max,Bofei,,,,
+KyU3_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,11.0867,90% of P4_max,Bofei,,,,
+NCU1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,7.9579,9 kPa Threshold,Bofei,,,,
+NCU1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,10.0737,90% of P4_max,Bofei,,,,
+NCU2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,6.8526,9 kPa Threshold,Bofei,,,,
+NCU2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,6.0684,9 kPa Threshold,Bofei,,,,
+RPI1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,11.2579,9 kPa Threshold,Bofei,,,,
+RPI1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,6.6299,9 kPa Threshold,Bofei,,,,
+RPI2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,9.515,9 kPa Threshold,Bofei,,,,
+RPI3_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,9.6387,9 kPa Threshold,Bofei,,,,
+UCD1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,No liq,9 kPa Threshold,Bofei,,,,
+UCD1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,10.6999,9 kPa Threshold,Bofei,,,,
+UCD2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,10.7844,9 kPa Threshold,Bofei,,,,
+UCD2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,9.8486,9 kPa Threshold,Bofei,,,,
+UCD3_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,7.7263,9 kPa Threshold,Bofei,,,,
+UCD3_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,8.5749,9 kPa Threshold,Bofei,,,,
+ZJU1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,9.546,9 kPa Threshold,Bofei,,,,
+ZJU1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,6.396,9 kPa Threshold,Bofei,,,,
+ZJU2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,9.594,9 kPa Threshold,Bofei,,,,
+ZJU2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,10.548,9 kPa Threshold,Bofei,,,,
+ZJU3_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,11.838,9 kPa Threshold,Bofei,,,,
+ZJU3_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,centrifuge_test,11.82,9 kPa Threshold,Bofei,,,,

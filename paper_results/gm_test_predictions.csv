@@ -1,0 +1,17 @@
+recording_id,triggering_detected,peak_median_hard_count_class1_aic,hard_count_detection_threshold,predicted_tL_sec,reference_tL1_sec,reference_tL1_method,reference_tL1_study,reference_tL2_sec,reference_tL2_method,reference_tL2_study,nearest_annotation_label,nearest_annotation_tL_sec,nearest_annotation_residual_sec
+10_Kramer_Nihonkai_chubu_1983_Hachirogata,True,641.5,100.0,9.9675,56.9,time_frequency_Ozener_2020,Kramer_2015,9.2,time_frequency_Ozener_2020,Ozener_2020,tL2,9.2,0.7675000000000001
+19_Oz_Hyogoken_nambu_1995_Amagasaki,True,925.0,100.0,10.97,10.9,time_frequency_Ozener_2020,Ozener_2020,,,,tL1,10.9,0.0700000000000002
+1_Kramer_Christchurch_2011_CCCC,True,995.0,100.0,17.315,19.3,time_frequency_Ozener_2020,Kramer_2015,,,,tL1,19.3,-1.9849999999999997
+26_ZhangKramer_Kobe_1995_Takatori,True,1000.0,100.0,4.995,5.82,Zhang CNN on image 2023,Zhang 2023,14.48,Ko 2025 With Ramp,Ko 2025,tL1,5.82,-0.8250000000000002
+27_ZhangKramer_Darfield_2010_GDLC,True,1000.0,100.0,24.29,26.01,Zhang CNN on image 2023,Zhang 2023,35.24499999999958,Ko 2025 With Ramp,Ko 2025,tL1,26.01,-1.7200000000000024
+28_ZhangKramer_Christchurch_2011_REHS,True,1000.0,100.0,13.515,15.73,Zhang CNN on image 2023,Zhang 2023,23.069999999999613,Ko 2025 With Ramp,Ko 2025,tL1,15.73,-2.215
+29_ZhangKramer_Christchurch_2011_PRPC,True,872.5,100.0,17.01,16.43999999999943,Ko 2025 With Ramp,Ko 2025,,,,tL1,16.43999999999943,0.5700000000005723
+2_Kramer_Christchurch_2011_CHHC,True,1000.0,100.0,19.36,20.2,time_frequency_Ozener_2020,Kramer_2015,,,,tL1,20.2,-0.8399999999999999
+30_ZhangKramer_Christchurch_2011_HPSC,True,850.5,100.0,19.0275,16.57,Zhang CNN on image 2023,Zhang 2023,20.445000000000103,Ko 2025 With Ramp,Ko 2025,tL2,20.445000000000103,-1.4175000000001037
+31_ZhangKramer_Christchurch_2011_SHLC,True,1000.0,100.0,19.095,26.095000000000027,Ko 2025 With Ramp,Zhang 2023,,,,tL1,26.095000000000027,-7.000000000000028
+32_ZhangKramer_Tohoku_2011_TKY017,False,0.0,100.0,,144.73,Zhang CNN on image 2023,Zhang 2023,168.62,Ko 2025 With Ramp,Ko 2025,,,
+38_ZhangKramer_Christchurch_2011_CBGS,True,1000.0,100.0,19.685,20.92,Zhang CNN on image 2023,Zhang 2023,,,,tL1,20.92,-1.235000000000003
+3_Kramer_Christchurch_2011_CMHS,True,985.5,100.0,19.04,19.1,time_frequency_Ozener_2020,Kramer_2015,,,,tL1,19.1,-0.0600000000000022
+40_ZhangKramer_Nisqually_2001_SDS,True,1000.0,100.0,33.315,34.25,Zhang CNN on image 2023,Zhang 2023,,,,tL1,34.25,-0.9350000000000024
+43_ZhangKramer_Northridge_1994_Sylmar,True,1000.0,100.0,4.995,6.74,Zhang CNN on image 2023,Zhang 2023,,,,tL1,6.74,-1.745
+4_Kramer_Darfield_2010_HPSC,True,992.5,100.0,29.14,30.1,time_frequency_Ozener_2020,Kramer_2015,,,,tL1,30.1,-0.9600000000000009

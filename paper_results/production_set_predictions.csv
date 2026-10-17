@@ -1,0 +1,26 @@
+recording_id,triggering_detected,peak_median_hard_count_class1_aic,hard_count_detection_threshold,predicted_tL_sec,reference_tL_sec_or_note,reference_note,reference_method
+39_ZhangKramer_Nisqually_2001_HAR,True,1000.0,100.0,15.07,,"Liquefaction observed, not identified by Zhang 2023",Zhang CNN on image 2023
+41_ZhangKramer_Nisqually_2001_SDW,True,1000.0,100.0,32.730000000000004,,tLs reported by Zhang 2023 are misaligned with time history,Zhang CNN on image 2023
+42_ZhangKramer_ChiChi_1999_TCU117,True,297.5,100.0,44.375,,"Liquefaction observed, not identified by Zhang 2023",Zhang CNN on image 2023
+45_WOliqBofei_Tohoku_2011_FKS002,True,1000.0,100.0,123.58,,Potentially subject to liquefaction,Site_stratigraphy_Dictated
+46_WOliqBofei_Tohoku_2011_FKS004,True,1000.0,100.0,96.05,,Unlikely to liquefy,Site_stratigraphy_Dictated
+47_WOliqBofei_Tohoku_2011_FKS009,True,1000.0,100.0,115.38,,Unlikely to liquefy,Site_stratigraphy_Dictated
+48_WOliqBofei_Tohoku_2011_FKS031,True,1000.0,100.0,109.86,,Unlikely to liquefy,Site_stratigraphy_Dictated
+49_WOliqBofei_Tohoku_2011_MYG001,True,959.5,100.0,59.695,,Unlikely to liquefy,Site_stratigraphy_Dictated
+50_WOliqBofei_Tohoku_2011_MYG007,True,960.0,100.0,44.34,,Potentially subject to liquefaction,Site_stratigraphy_Dictated
+51_WOliqBofei_Tohoku_2011_MYG009,True,284.0,100.0,48.4925,,Potentially subject to liquefaction,Site_stratigraphy_Dictated
+52_WOliqBofei_Tohoku_2011_MYG011,True,1000.0,100.0,95.12,,Unlikely to liquefy,Site_stratigraphy_Dictated
+53_WOliqBofei_Tohoku_2011_MYG012,True,898.5,100.0,46.550000000000004,,Unlikely to liquefy,Site_stratigraphy_Dictated
+54_WOliqBofei_Tohoku_2011_MYG016,True,910.0,100.0,48.9,,Potentially subject to liquefaction,Site_stratigraphy_Dictated
+55_WOliqBofei_Niigata_Chuetsu_2007_NIG001,False,0.0,100.0,,,Unlikely to liquefy,Site_stratigraphy_Dictated
+56_WOliqBofei_Niigata_Chuetsu_2007_NIG004,True,166.5,100.0,29.5575,,Unlikely to liquefy,Site_stratigraphy_Dictated
+57_WOliqBofei_Niigata_Chuetsu_2007_NIG016,True,1000.0,100.0,25.51,,Unlikely to liquefy,Site_stratigraphy_Dictated
+58_WOliqBofei_Niigata_Chuetsu_2007_NIG025,True,798.5,100.0,27.04,,Potentially subject to liquefaction,Site_stratigraphy_Dictated
+59_WOliqBofei_Western_tottori_2000_SMN010,False,0.0,100.0,,,Unlikely to liquefy,Site_stratigraphy_Dictated
+60_WOliqBofei_Western_tottori_2000_SMN017,False,0.0,100.0,,,Unlikely to liquefy,Site_stratigraphy_Dictated
+61_WOliqBofei_Western_tottori_2000_TTR005,True,944.0,100.0,27.080000000000002,,Unlikely to liquefy,Site_stratigraphy_Dictated
+62_WOliqBofei_Western_tottori_2000_TTR007,True,1000.0,100.0,27.035,,Unlikely to liquefy,Site_stratigraphy_Dictated
+63_WOliqBofei_Tokachi_oki_2003_HKD104,False,0.0,100.0,,,Unlikely to liquefy,Site_stratigraphy_Dictated
+64_WOliqBofei_Tokachi_oki_2003_HKD108,True,360.0,100.0,40.72,,Potentially subject to liquefaction,Site_stratigraphy_Dictated
+65_WOliqBofei_Tokachi_oki_2003_HKD087,True,979.5,100.0,45.76,,Unlikely to liquefy,Site_stratigraphy_Dictated
+66_WOliqBofei_Tokachi_oki_2003_HKD123,False,0.0,100.0,,,Unlikely to liquefy,Site_stratigraphy_Dictated

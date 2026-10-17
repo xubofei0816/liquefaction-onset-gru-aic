@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or trained model, please cite the associated article and this archived repository release."
+type: software
+title: "Liquefaction-triggering time from surface accelerations: Model 6.3 no-time inference workflow"
+version: 1.0.0
+license: BSD-3-Clause
+authors:
+  - family-names: Xu
+    given-names: Bofei
+    affiliation: "University of California, Berkeley"
+    email: "bofei-xu@berkeley.edu"
+  - family-names: Athanasopoulos-Zekkos
+    given-names: Adda
+    affiliation: "University of California, Berkeley"
+    email: "adda.zekkos@berkeley.edu"
+abstract: "Trained five-fold GRU-attention ensemble, preprocessing template, inference code, and Accumulative Inference Curve post-processing used to estimate liquefaction-triggering time from three-component surface acceleration records."
+keywords:
+  - liquefaction triggering
+  - ground motion
+  - neural network
+  - GRU
+  - Accumulative Inference Curve
+

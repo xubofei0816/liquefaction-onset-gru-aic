@@ -1,0 +1,112 @@
+recording_id,record_type,event,station,study_use,event_Mw,inference_Mw,raw_data_origin,raw_data_in_repository,raw_data_access
+1_Kramer_Christchurch_2011_CCCC,ground_motion,Christchurch_2011,CCCC,gm_test,6.2,6.2,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+2_Kramer_Christchurch_2011_CHHC,ground_motion,Christchurch_2011,CHHC,gm_test,6.2,6.2,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+3_Kramer_Christchurch_2011_CMHS,ground_motion,Christchurch_2011,CMHS,gm_test,6.2,6.2,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+4_Kramer_Darfield_2010_HPSC,ground_motion,Darfield_2010,HPSC,gm_test,7.0,7.0,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+5_Oz_Kobe_1995_Higashi_kobe_bridge,ground_motion,Kobe_1995,Higashi_kobe_bridge,training_and_cross_validation,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+5_Kramer_Kobe_1995_Higashi_kobe_bridge,ground_motion,Kobe_1995,Higashi_kobe_bridge,training_and_cross_validation,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+6_Oz_Kobe_1995_Kobe_JIS,ground_motion,Kobe_1995,Kobe_JIS,training_and_cross_validation,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+6_Kramer_Kobe_1995_Kobe_JIS,ground_motion,Kobe_1995,Kobe_JIS,training_and_cross_validation,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+7_Oz_Kobe_1995_Port_island,ground_motion,Kobe_1995,Port_island,training_and_cross_validation,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+7_Kramer_Kobe_1995_Port_island,ground_motion,Kobe_1995,Port_island,training_and_cross_validation,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+8_Oz_Loma_prieta_1989_ANAS,ground_motion,Loma_prieta_1989,ANAS,training_and_cross_validation,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+8_Kramer_Loma_prieta_1989_ANAS,ground_motion,Loma_prieta_1989,ANAS,training_and_cross_validation,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+9_Oz_Loma_prieta_1989_Treasure_island,ground_motion,Loma_prieta_1989,Treasure_island,training_and_cross_validation,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+9_Kramer_Loma_prieta_1989_Treasure_island,ground_motion,Loma_prieta_1989,Treasure_island,training_and_cross_validation,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+10_Kramer_Nihonkai_chubu_1983_Hachirogata,ground_motion,Nihonkai_chubu_1983,Hachirogata,gm_test,7.7,7.7,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+11_Oz_Niigata_1964_Kawagishi_cho,ground_motion,Niigata_1964,Kawagishi_cho,training_and_cross_validation,7.7,7.7,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+11_Kramer_Niigata_1964_Kawagishi_cho,ground_motion,Niigata_1964,Kawagishi_cho,training_and_cross_validation,7.7,7.7,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+12_Oz_Superstition_hills_1987_Wildlife,ground_motion,Superstition_hills_1987,Wildlife,training_and_cross_validation,6.6,6.6,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+12_Kramer_Superstition_hills_1987_Wildlife,ground_motion,Superstition_hills_1987,Wildlife,training_and_cross_validation,6.6,6.6,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+13_Oz_Tohoku_2011_CHB024,ground_motion,Tohoku_2011,CHB024,training_and_cross_validation,9.0,9.0,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+13_Kramer_Tohoku_2011_CHB024,ground_motion,Tohoku_2011,CHB024,training_and_cross_validation,9.0,9.0,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+14_Oz_Tohoku_2011_IBR014,ground_motion,Tohoku_2011,IBR014,training_and_cross_validation,9.0,9.0,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+14_Kramer_Tohoku_2011_IBR014,ground_motion,Tohoku_2011,IBR014,training_and_cross_validation,9.0,9.0,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+15_Oz_Tohoku_2011_MYG013,ground_motion,Tohoku_2011,MYG013,training_and_cross_validation,9.0,9.0,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+15_Kramer_Tohoku_2011_MYG013,ground_motion,Tohoku_2011,MYG013,training_and_cross_validation,9.0,9.0,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+16_Oz_Tokachi_oki_1968_Aomori_Harbor,ground_motion,Tokachi_oki_1968,Aomori_Harbor,training_and_cross_validation,8.3,8.3,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+17_Oz_Tokachi_oki_2003_HKD086,ground_motion,Tokachi_oki_2003,HKD086,training_and_cross_validation,8.3,8.3,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+17_Kramer_Tokachi_oki_2003_HKD086,ground_motion,Tokachi_oki_2003,HKD086,training_and_cross_validation,8.3,8.3,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+18_Oz_Western_tottori_2000_Sakaiminato,ground_motion,Western_tottori_2000,Sakaiminato,training_and_cross_validation,6.6,6.6,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+18_Kramer_Western_tottori_2000_Sakaiminato,ground_motion,Western_tottori_2000,Sakaiminato,training_and_cross_validation,6.6,6.6,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+19_Oz_Hyogoken_nambu_1995_Amagasaki,ground_motion,Hyogoken_nambu_1995,Amagasaki,gm_test,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+21_Oz_Imperial_valley_1979_Bonds_corner,ground_motion,Imperial_valley_1979,Bonds_corner,training_and_cross_validation,6.5,6.5,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+22_Oz_Kushiro_oki_1993_Kushiro_port,ground_motion,Kushiro_oki_1993,Kushiro_port,training_and_cross_validation,7.8,7.8,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+23_Oz_Tohoku_2011_MYG010,ground_motion,Tohoku_2011,MYG010,training_and_cross_validation,9.0,9.0,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+24_Oz_Niigata_Chuetsu_2007_NIG018,ground_motion,Niigata_Chuetsu_2007,NIG018,training_and_cross_validation,6.6,6.6,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+25_Oz_Tohoku_2011_Onahama_port,ground_motion,Tohoku_2011,Onahama_port,training_and_cross_validation,9.0,9.0,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+26_ZhangKramer_Kobe_1995_Takatori,ground_motion,Kobe_1995,Takatori,gm_test,6.9,6.9,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+27_ZhangKramer_Darfield_2010_GDLC,ground_motion,Darfield_2010,GDLC,gm_test,7.0,7.0,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+28_ZhangKramer_Christchurch_2011_REHS,ground_motion,Christchurch_2011,REHS,gm_test,6.2,6.2,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+29_ZhangKramer_Christchurch_2011_PRPC,ground_motion,Christchurch_2011,PRPC,gm_test,6.2,6.2,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+30_ZhangKramer_Christchurch_2011_HPSC,ground_motion,Christchurch_2011,HPSC,gm_test,6.2,6.2,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+31_ZhangKramer_Christchurch_2011_SHLC,ground_motion,Christchurch_2011,SHLC,gm_test,6.2,6.2,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+32_ZhangKramer_Tohoku_2011_TKY017,ground_motion,Tohoku_2011,TKY017,gm_test,9.0,9.0,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+38_ZhangKramer_Christchurch_2011_CBGS,ground_motion,Christchurch_2011,CBGS,gm_test,6.2,6.2,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+39_ZhangKramer_Nisqually_2001_HAR,ground_motion,Nisqually_2001,HAR,gm_production,6.8,6.8,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+40_ZhangKramer_Nisqually_2001_SDS,ground_motion,Nisqually_2001,SDS,gm_test,6.8,6.8,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+41_ZhangKramer_Nisqually_2001_SDW,ground_motion,Nisqually_2001,SDW,gm_production,6.8,6.8,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+42_ZhangKramer_ChiChi_1999_TCU117,ground_motion,ChiChi_1999,TCU117,gm_production,7.7,7.7,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+43_ZhangKramer_Northridge_1994_Sylmar,ground_motion,Northridge_1994,Sylmar,gm_test,6.7,6.7,personal communication; see article,False,Request from the original data provider; redistribution permission was not obtained
+45_WOliqBofei_Tohoku_2011_FKS002,ground_motion,Tohoku_2011,FKS002,gm_production,9.0,9.0,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+46_WOliqBofei_Tohoku_2011_FKS004,ground_motion,Tohoku_2011,FKS004,gm_production,9.0,9.0,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+47_WOliqBofei_Tohoku_2011_FKS009,ground_motion,Tohoku_2011,FKS009,gm_production,9.0,9.0,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+48_WOliqBofei_Tohoku_2011_FKS031,ground_motion,Tohoku_2011,FKS031,gm_production,9.0,9.0,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+49_WOliqBofei_Tohoku_2011_MYG001,ground_motion,Tohoku_2011,MYG001,gm_production,9.0,9.0,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+50_WOliqBofei_Tohoku_2011_MYG007,ground_motion,Tohoku_2011,MYG007,gm_production,9.0,9.0,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+51_WOliqBofei_Tohoku_2011_MYG009,ground_motion,Tohoku_2011,MYG009,gm_production,9.0,9.0,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+52_WOliqBofei_Tohoku_2011_MYG011,ground_motion,Tohoku_2011,MYG011,gm_production,9.0,9.0,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+53_WOliqBofei_Tohoku_2011_MYG012,ground_motion,Tohoku_2011,MYG012,gm_production,9.0,9.0,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+54_WOliqBofei_Tohoku_2011_MYG016,ground_motion,Tohoku_2011,MYG016,gm_production,9.0,9.0,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+55_WOliqBofei_Niigata_Chuetsu_2007_NIG001,ground_motion,Niigata_Chuetsu_2007,NIG001,gm_production,6.6,6.6,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+56_WOliqBofei_Niigata_Chuetsu_2007_NIG004,ground_motion,Niigata_Chuetsu_2007,NIG004,gm_production,6.6,6.6,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+57_WOliqBofei_Niigata_Chuetsu_2007_NIG016,ground_motion,Niigata_Chuetsu_2007,NIG016,gm_production,6.6,6.6,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+58_WOliqBofei_Niigata_Chuetsu_2007_NIG025,ground_motion,Niigata_Chuetsu_2007,NIG025,gm_production,6.6,6.6,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+59_WOliqBofei_Western_tottori_2000_SMN010,ground_motion,Western_tottori_2000,SMN010,gm_production,6.6,6.6,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+60_WOliqBofei_Western_tottori_2000_SMN017,ground_motion,Western_tottori_2000,SMN017,gm_production,6.6,6.6,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+61_WOliqBofei_Western_tottori_2000_TTR005,ground_motion,Western_tottori_2000,TTR005,gm_production,6.6,6.6,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+62_WOliqBofei_Western_tottori_2000_TTR007,ground_motion,Western_tottori_2000,TTR007,gm_production,6.6,6.6,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+63_WOliqBofei_Tokachi_oki_2003_HKD104,ground_motion,Tokachi_oki_2003,HKD104,gm_production,8.3,8.3,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+64_WOliqBofei_Tokachi_oki_2003_HKD108,ground_motion,Tokachi_oki_2003,HKD108,gm_production,8.3,8.3,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+65_WOliqBofei_Tokachi_oki_2003_HKD087,ground_motion,Tokachi_oki_2003,HKD087,gm_production,8.3,8.3,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+66_WOliqBofei_Tokachi_oki_2003_HKD123,ground_motion,Tokachi_oki_2003,HKD123,gm_production,8.3,8.3,NIED K-NET/KiK-net,False,https://doi.org/10.17598/NIED.0004
+CU1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+CU2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+Ehime1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+Ehime1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+Ehime2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+Ehime2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+Ehime3_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+Ehime3_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+Ifsttar1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+Ifsttar1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+KAIST1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+KAIST1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+KAIST2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+KAIST2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+KyU1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+KyU1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+KyU2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+KyU2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+KyU3_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+KyU3_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+NCU1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+NCU1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+NCU2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+NCU2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+RPI1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+RPI1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+RPI2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+RPI3_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+UCD1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+UCD1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+UCD2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+UCD2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+UCD3_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+UCD3_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+ZJU1_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+ZJU1_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+ZJU2_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+ZJU2_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+ZJU3_Motion1_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
+ZJU3_Motion2_LEAP_UCD_2017_CentrifugeAH4,centrifuge,LEAP_UCD_2017,CentrifugeAH4,centrifuge_test,6.9,6.9,LEAP-UCD-2017 / DesignSafe,False,Use the DesignSafe citations in the associated article
