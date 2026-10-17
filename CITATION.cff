@@ -3,6 +3,9 @@ message: "If you use this software or trained model, please cite the associated 
 type: software
 title: "Liquefaction-triggering time from surface accelerations: Model 6.3 no-time inference workflow"
 version: 1.0.0
+doi: "10.5281/zenodo.23430058"
+repository-code: "https://github.com/xubofei0816/liquefaction-onset-gru-aic"
+url: "https://doi.org/10.5281/zenodo.23430058"
 license: BSD-3-Clause
 authors:
   - family-names: Xu

@@ -27,13 +27,26 @@ reproducible inference and Accumulative Inference Curve (AIC) workflow.
 ## Quick start
 
 The saved models were produced with Python 3.10 and TensorFlow/Keras 2.10.
-Create the pinned environment before opening the notebook:
+Create the pinned environment before opening the notebook. With Conda:
 
 ```powershell
 conda env create -f environment.yml
 conda activate liquefaction-timing
 python -m ipykernel install --user --name liquefaction-timing --display-name "Python (liquefaction-timing)"
 jupyter lab
+```
+
+Alternatively, use a standard Python 3.10 virtual environment. On Windows,
+place the environment at a short path because TensorFlow 2.10 contains deeply
+nested files that can exceed the legacy Windows path-length limit when the
+environment is created inside a long repository path:
+
+```powershell
+py -3.10 -m venv "$env:USERPROFILE\.venvs\liquefaction-timing"
+& "$env:USERPROFILE\.venvs\liquefaction-timing\Scripts\python.exe" -m pip install --upgrade pip
+& "$env:USERPROFILE\.venvs\liquefaction-timing\Scripts\python.exe" -m pip install -r requirements.txt
+& "$env:USERPROFILE\.venvs\liquefaction-timing\Scripts\python.exe" -m ipykernel install --user --name liquefaction-timing --display-name "Python (liquefaction-timing)"
+& "$env:USERPROFILE\.venvs\liquefaction-timing\Scripts\jupyter-lab.exe"
 ```
 
 Open `notebooks/inference_template.ipynb`, select the
@@ -120,8 +133,8 @@ records are available through the DesignSafe citations listed in the article.
 
 ## Citation and license
 
-Use `CITATION.cff` for software citation metadata. Add the repository DOI to
-the manuscript after the first archived release is issued.
+Use `CITATION.cff` for software citation metadata. The archived release is
+available at [https://doi.org/10.5281/zenodo.23430058](https://doi.org/10.5281/zenodo.23430058).
 
 Copyright (c) 2026 Bofei Xu. The code, notebooks, trained model files, and
 repository-generated metadata and result tables are distributed under the

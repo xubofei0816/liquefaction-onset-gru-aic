@@ -23,6 +23,10 @@ dependencies = [
   "tqdm==4.67.1",
 ]
 
+[project.urls]
+Repository = "https://github.com/xubofei0816/liquefaction-onset-gru-aic"
+"Archived release" = "https://doi.org/10.5281/zenodo.23430058"
+
 [tool.setuptools.packages.find]
 where = ["src"]
 

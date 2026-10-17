@@ -46,10 +46,10 @@ GitHub's current guidance is:
 
 ## 4. Connect and push
 
-Replace the placeholders with the repository URL shown by GitHub:
+Connect to the public repository:
 
 ```powershell
-git remote add origin https://github.com/OWNER/liquefaction-onset-gru-aic.git
+git remote add origin https://github.com/xubofei0816/liquefaction-onset-gru-aic.git
 git push -u origin main
 ```
 
@@ -91,9 +91,10 @@ LFS model objects rather than pointer files.
 4. In Zenodo, create a **New upload** with resource type **Software**. Upload
    the verified ZIP; use version `1.0.0`, license `BSD-3-Clause`, and add the
    GitHub repository URL as a related identifier.
-5. Use Zenodo's **Get a DOI now!** option if the DOI must be inserted into the
-   manuscript before publishing the deposit. If the DOI is added to repository
-   files, rebuild and replace the ZIP before publishing the Zenodo record.
+5. The DOI reserved for version `1.0.0` is
+   [10.5281/zenodo.23430058](https://doi.org/10.5281/zenodo.23430058). If any
+   repository file changes after creating the ZIP, rebuild and replace the ZIP
+   before publishing the Zenodo record.
 6. Verify the title, creators, version, license, related GitHub URL, file size,
    and open-access state, then publish the Zenodo record.
 7. Download the published ZIP and again verify that it contains the five
@@ -113,8 +114,8 @@ Official Zenodo guidance:
 
 ## 7. Final manuscript update
 
-Replace the repository DOI placeholder in the manuscript's Data availability
-section with the DOI for the archived public release. Use the DOI URL, not only
-the mutable GitHub URL. If desired, add the concept DOI or release DOI badge to
-the README in a later small release.
+Confirm that the manuscript's Data Availability section cites
+[https://doi.org/10.5281/zenodo.23430058](https://doi.org/10.5281/zenodo.23430058),
+not only the mutable GitHub URL. If desired, add a DOI badge to the README in a
+later small release.
 
